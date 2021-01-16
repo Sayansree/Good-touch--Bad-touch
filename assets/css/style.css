@@ -1,5 +1,6 @@
 
 
+
 /*
 
 Author: Bootstrapthemes
@@ -408,6 +409,7 @@ button.btn-lg{
 	line-height: 1.5em;
 }
 
+}
 button.btn-lg:hover{
 	background:#d6962c;
 	color:#fff;
@@ -658,7 +660,7 @@ a.navbar-brand.our_logo{
 	background-size:cover;
 }
 .main_slider {
-
+	
 }
 .main_slider .main_slider_content h1{
 font-size: 6rem;
@@ -768,8 +770,6 @@ font-size: 6rem;
 .single_portfolio_text img{
 	width:100%;
 }
-
-
 .single_portfolio_text:hover .portfolio_images_overlay{
 	top: 28px;
     left: 14px;
@@ -778,7 +778,7 @@ font-size: 6rem;
 .portfolio_images_overlay{
 	width: 90%;
     height: 80%;
-    background: rgba(0, 0, 0, 0.5);
+    background: rgba(245, 121, 38, 0.5);
     padding: 20px;
     margin: 0 auto;
     top:-100%;
@@ -791,16 +791,6 @@ font-size: 6rem;
 	color:#fff;
 	font-size:1.3125rem;
 	line-height:2rem;
-}
-
-.portfolio_images_overlay p.product_price{
-	font-size:1.3125rem;
-	color:rgb(0, 0, 0);
-	line-height:3rem;}
-
-.single_portfolio_text:hover .portfolio_images_overlay{
-	top: 28px;
-    left: 14px;
 }
 
 .portfolio_images_overlayo p.product_price{
@@ -830,6 +820,16 @@ font-size: 6rem;
 	line-height:2rem;
 }
 
+.portfolio_images_overlayo p.product_price{
+	font-size:2.5725rem;
+	color:#fff;
+	line-height:3rem;
+}
+.single_portfolio_text:hover .portfolio_images_overlayr{
+	top: 28px;
+    left: 14px;
+}
+
 .portfolio_images_overlayr{
 	width: 90%;
     height: 80%;
@@ -849,8 +849,8 @@ font-size: 6rem;
 }
 
 .portfolio_images_overlayr p.product_price{
-	font-size:1.3125rem;
-	color:rgb(0, 0, 0);
+	font-size:2.5725rem;
+	color:#fff;
 	line-height:3rem;
 }
 .single_portfolio_text:hover .portfolio_images_overlayg{
@@ -877,12 +877,10 @@ font-size: 6rem;
 }
 
 .portfolio_images_overlayg p.product_price{
-	font-size:1.3125rem;
-	color:rgb(0, 0, 0);
+	font-size:2.5725rem;
+	color:#fff;
 	line-height:3rem;
 }
-
-
 
 
 
@@ -1000,7 +998,7 @@ font-size: 6rem;
 
 /* Footer Section CSS */
 .footer_widget{
-	background:url(../images/footerbg.png) center top no-repeat scroll;
+	background:url(../images/footerbg.jpg) center top no-repeat scroll;
 	-moz-background-size: cover;
 	-webkit-background-size: cover;
 	-o-background-size: cover;
