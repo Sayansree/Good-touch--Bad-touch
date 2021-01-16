@@ -913,20 +913,44 @@ font-size: 6rem;
 }
 
 .single_pakeg_one{
-	background:url(../images/newsone.jpg) left center no-repeat;
+	background:url(../images/n1.png) left center no-repeat;
 	padding:30px;
 	overflow:hidden;
 	margin-top:60px;
 }
 .single_pakeg_two{
-	background:url(../images/newstwo.jpg) right center no-repeat;
+	background:url(../images/n2.png) right center no-repeat;
 	padding:30px;	
 	overflow:hidden;
 	margin-top:60px;	
 	
 }
 .single_pakeg_three{
-	background:url(../images/newsthree.jpg) left center no-repeat;
+	background:url(../images/n3.png) left center no-repeat;
+	padding:30px;	
+	overflow:hidden;
+	margin-top:60px;	
+	
+}
+
+.single_pakeg_four{
+	background:url(../images/n4.png) right center no-repeat;
+	padding:30px;	
+	overflow:hidden;
+	margin-top:60px;	
+	
+}
+
+.single_pakeg_five{
+	background:url(../images/n5.png) left center no-repeat;
+	padding:30px;	
+	overflow:hidden;
+	margin-top:60px;	
+	
+}
+
+.single_pakeg_six{
+	background:url(../images/n6.png) right center no-repeat;
 	padding:30px;	
 	overflow:hidden;
 	margin-top:60px;	
