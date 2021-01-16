@@ -793,13 +793,15 @@ font-size: 6rem;
 	line-height:2rem;
 }
 
-.portfolio_images_overlayo p.product_price{
+.portfolio_images_overlay p.product_price{
 	font-size:2rem;
-	color:#fff;
-	line-height:2rem;}
+	color:rgb(0, 0, 0);
+    line-height:3rem;
+}
+    
 .single_portfolio_text:hover .portfolio_images_overlayo{
-	top: 28px;
-    left: 14px;
+	top: 5px;
+    left: 5px;
 }
 
 .portfolio_images_overlayo{
@@ -822,12 +824,12 @@ font-size: 6rem;
 
 .portfolio_images_overlayo p.product_price{
 	font-size:2rem;
-	color:#fff;
+	color:rgb(0, 0, 0);
 	line-height:3rem;
 }
 .single_portfolio_text:hover .portfolio_images_overlayr{
-	top: 28px;
-    left: 14px;
+	top: 5px;
+    left: 5px;
 }
 
 .portfolio_images_overlayr{
@@ -850,12 +852,13 @@ font-size: 6rem;
 
 .portfolio_images_overlayr p.product_price{
 	font-size:2rem;
-	color:#fff;
+	color:rgb(0, 0, 0);
 	line-height:3rem;
 }
+
 .single_portfolio_text:hover .portfolio_images_overlayg{
-	top: 28px;
-    left: 14px;
+	top: 5px;
+    left: 5px;
 }
 
 .portfolio_images_overlayg{
@@ -878,7 +881,7 @@ font-size: 6rem;
 
 .portfolio_images_overlayg p.product_price{
 	font-size:2rem;
-	color:#fff;
+	color:rgb(0, 0, 0);
 	line-height:3rem;
 }
 
