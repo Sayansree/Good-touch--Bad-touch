@@ -803,6 +803,15 @@ font-size: 6rem;
     left: 14px;
 }
 
+.portfolio_images_overlayo p.product_price{
+	font-size:2.5725rem;
+	color:#fff;
+	line-height:3rem;}
+.single_portfolio_text:hover .portfolio_images_overlayo{
+	top: 28px;
+    left: 14px;
+}
+
 .portfolio_images_overlayo{
 	width: 90%;
     height: 80%;
@@ -819,16 +828,6 @@ font-size: 6rem;
 	color:#fff;
 	font-size:1.3125rem;
 	line-height:2rem;
-}
-
-.portfolio_images_overlayo p.product_price{
-	font-size:1.3125rem;
-	color:rgb(0, 0, 0);
-	line-height:3rem;
-}
-.single_portfolio_text:hover .portfolio_images_overlayr{
-	top: 28px;
-    left: 14px;
 }
 
 .portfolio_images_overlayr{
