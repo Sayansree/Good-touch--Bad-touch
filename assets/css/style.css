@@ -796,7 +796,7 @@ font-size: 6rem;
 .portfolio_images_overlay p.product_price{
 	font-size:2.5725rem;
 	color:rgb(0, 0, 0);
-	line-height:3rem;
+	line-height:3rem;}
 .single_portfolio_text:hover .portfolio_images_overlay{
 	top: 28px;
     left: 14px;
