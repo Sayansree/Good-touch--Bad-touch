@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://badge.fury.io/js/pomolectron">
+  <a href="https://youtu.be/TZodPAPkXdg">
     VIDEO LINK
   </a>
   <br>
@@ -48,10 +48,9 @@ We even have designed a web page describing more about good touch and bad touch.
   
 ## How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line
+You can access our website at <a href="https://https://sushreesatarupa.github.io/Good-touch--Bad-touch/"><img src="https://github.com/Sushreesatarupa/Good-touch--Bad-touch/blob/main/assets/images/logo.png" alt="Dont touch us" width="50"></a>
 
-
-Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
+There is no other requirements, since our hardware cannot be accessed virtually!
 
 ## License
 
