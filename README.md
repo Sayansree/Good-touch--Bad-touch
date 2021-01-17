@@ -42,9 +42,10 @@ To indicate the different types of touch as different colours.
 We even have designed a web page describing more about good touch and bad touch. The website is built with the help of HTML, CSS, Bootstrap and JavaScript. We ensured that website is absolutely easy to use for children.
 
 
-## Dark Mode
-
-<div align="center"><img src="app/res/pomolectron-dark.png"></div>
+## Our Hardware
+<br>
+  <a href="https://https://sushreesatarupa.github.io/Good-touch--Bad-touch/"><img src="https://github.com/Sushreesatarupa/Good-touch--Bad-touch/blob/main/assets/images/1.jpg" alt="Dont touch us" width="400"></a>
+  <br>
   
 ## How To Use
 
