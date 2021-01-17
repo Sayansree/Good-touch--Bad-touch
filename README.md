@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://https://sushreesatarupa.github.io/Good-touch--Bad-touch/"><img src="https://raw.githubusercontent.com/amitmerchant1990/pomolectron/master/app/res/pomolectron-transparent.png" alt="Dont touch us" width="400"></a>
+  <a href="https://https://sushreesatarupa.github.io/Good-touch--Bad-touch/"><img src="https://raw.githubusercontent.com/Sushreesatarupa/Good-touch--Bad-touch/blob/main/assets/images/logo.png" alt="Dont touch us" width="400"></a>
   <br>
 </h1>
 
