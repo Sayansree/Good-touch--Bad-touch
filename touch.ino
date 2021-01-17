@@ -1,6 +1,6 @@
-#define ledRed 2
-#define ledGreen 3
-#define ledOrange 4
+#define ledRed 4
+#define ledGreen 2
+#define ledOrange 3
 
 #define Feet 5
 #define Thighs 6
@@ -12,6 +12,7 @@
 #define Private 12
 
 void setup() {
+  
   Serial.begin(115200);
   pinMode(ledRed,OUTPUT);
   pinMode(ledGreen,OUTPUT);
@@ -27,6 +28,7 @@ void setup() {
   digitalWrite(ledRed,LOW);
   digitalWrite(ledGreen,LOW);
   digitalWrite(ledOrange,LOW);
+  
 }
 
 void loop() {
@@ -48,12 +50,16 @@ void loop() {
   }else if(ThighsTouched|ChestTouched|SouldersTouched|FaceTouched|FeetTouched){
     Serial.println("OK TOUCH");
     digitalWrite(ledRed,LOW);
-    digitalWrite(ledGreen,HIGH);
-    digitalWrite(ledOrange,LOW);
+    digitalWrite(ledGreen,LOW);
+    digitalWrite(ledOrange,HIGH);
   }else if(HandsTouched){
     Serial.println("GOOD TOUCH");
     digitalWrite(ledRed,LOW);
     digitalWrite(ledGreen,HIGH);
+    digitalWrite(ledOrange,LOW);
+  }else{
+    digitalWrite(ledRed,LOW);
+    digitalWrite(ledGreen,LOW);
     digitalWrite(ledOrange,LOW);
   }
 }
