@@ -800,17 +800,17 @@ font-size: 6rem;
 }
     
 .single_portfolio_text:hover .portfolio_images_overlayo{
-	top: 5px;
-    left: 5px;
+	top: 0px;
+    left: 0px;
 }
 
 .portfolio_images_overlayo{
 	width: 90%;
     height: 80%;
     background: rgba(245, 121, 38, 0.5);
-    padding: 20px;
+    padding: 10%;
     margin: 0 auto;
-    top:-100%;
+    top:auto;
     left: 14px;
     position: absolute;
 	transition:.6s;
@@ -818,56 +818,56 @@ font-size: 6rem;
 .portfolio_images_overlayo h6{
 	text-transform:uppercase;
 	color:#fff;
-	font-size:1.3125rem;
-	line-height:2rem;
+	max-inline-size:1rem;
+	line-height:90%;
 }
 
 .portfolio_images_overlayo p.product_price{
-	font-size:2rem;
+	font-size:50%;
 	color:rgb(0, 0, 0);
-	line-height:3rem;
+	line-height:50%;
 }
 .single_portfolio_text:hover .portfolio_images_overlayr{
-	top: 5px;
-    left: 5px;
+	top: 0px;
+    left: 0px;
 }
 
 .portfolio_images_overlayr{
 	width: 90%;
     height: 80%;
     background: rgba(153, 2, 2, 0.5);
-    padding: 20px;
+    padding: 10%;
     margin: 0 auto;
-    top:-100%;
+    top:auto;
     left: 14px;
     position: absolute;
 	transition:.6s;
 }
 .portfolio_images_overlayr h6{
-	text-transform:uppercase;
+    text-transform:uppercase;
 	color:#fff;
-	font-size:1.3125rem;
-	line-height:2rem;
+	max-inline-size:1rem;
+	line-height:90%;
 }
 
 .portfolio_images_overlayr p.product_price{
-	font-size:2rem;
+	font-size:50%;
 	color:rgb(0, 0, 0);
-	line-height:3rem;
+	line-height:50%;
 }
 
 .single_portfolio_text:hover .portfolio_images_overlayg{
-	top: 5px;
-    left: 5px;
+	top: 0px;
+    left: 0px;
 }
 
 .portfolio_images_overlayg{
 	width: 90%;
     height: 80%;
     background: rgba(39, 247, 67, 0.5);
-    padding: 20px;
+    padding: 10%;
     margin: 0 auto;
-    top:-100%;
+    top:auto;
     left: 14px;
     position: absolute;
 	transition:.6s;
@@ -875,14 +875,14 @@ font-size: 6rem;
 .portfolio_images_overlayg h6{
 	text-transform:uppercase;
 	color:#fff;
-	font-size:1.3125rem;
-	line-height:2rem;
+	max-inline-size:1rem;
+	line-height:90%;
 }
 
 .portfolio_images_overlayg p.product_price{
-	font-size:2rem;
+	font-size:50%;
 	color:rgb(0, 0, 0);
-	line-height:3rem;
+	line-height:50%;
 }
 
 
