@@ -9,7 +9,7 @@
     VIDEO LINK
   </a>
   <br>
-  <a href="https://chocolatey.org/packages/pomolectron">
+  <a href="https://chocolatey.org">
     PPT LINK
   </a>
   
