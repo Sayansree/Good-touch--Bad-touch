@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://https://sushreesatarupa.github.io/Good-touch--Bad-touch/"><img src="https://images.app.goo.gl/BMEweB6ubYngxF3V9" alt="Dont touch us" width="400"></a>
+  <a href="https://https://sushreesatarupa.github.io/Good-touch--Bad-touch/"><img src="https://images.app.goo.gl/6PQq8wA8PyqYDe1J9" alt="Dont touch us" width="400"></a>
   <br>
 </h1>
 
