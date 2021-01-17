@@ -14,7 +14,7 @@ html,
 body {
     background-color: #1E2E3B;
     font-size: 15px;
-    color: #565656;
+    color: #2e2e2e;
     width: 100%;
     padding: 0;
     margin-left: 0;
@@ -92,14 +92,16 @@ a span {
 }
 p {
     margin: 0 0 15px;
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .clear {
     clear: both;
 }
 ol,
 ul {
-    list-style: none;
-    padding: 0;
+    text-align: left;
+    padding: 10px;
 }
 img {
     max-width: 100%;
@@ -172,7 +174,7 @@ h4 {
     line-height: 2.2rem;
     margin-bottom: 1.1rem;
 	font-family: 'Pacifico', cursive;
-
+    color: #ffffff;
 }
 h5 {
     font-size: 1.3rem;
@@ -196,11 +198,11 @@ p:last-child {
 .home-wrap h4,
 .home-wrap h5,
 .home-wrap p {
-    color: #ffffff;
+    color: #000000;
     font-family: 'roboto', sans-serif;
 }
 .text {
-    color: #333333;
+    color: #000000;
 }
 .colorstext {
     color: #f56363;
@@ -409,7 +411,7 @@ button.btn-lg{
 	line-height: 1.5em;
 }
 
-}
+
 button.btn-lg:hover{
 	background:#d6962c;
 	color:#fff;
@@ -656,7 +658,7 @@ a.navbar-brand.our_logo{
 /* slider section */
 
 .slider{
-	background:url(../images/bannerbg.jpg) center center no-repeat;
+	background:url(../images/bannerbg.png) center center no-repeat;
 	background-size:cover;
 }
 .main_slider {
@@ -687,7 +689,7 @@ font-size: 6rem;
 /* Abouts Section css */
 
 .abouts{
-	 background: url(../images/abtbg.jpg) no-repeat center top scroll;
+	 background: url(../images/abtbg.png) no-repeat center top scroll;
   -moz-background-size: cover;
   -webkit-background-size: cover;
   -o-background-size: cover;
@@ -709,7 +711,7 @@ font-size: 6rem;
 
 /* Features section css */
 .features{
-	background:url(../images/ftbg.jpg) center center no-repeat;
+	background:url(../images/ftbg.png) center center no-repeat;
 	-moz-background-size: cover;
 	-webkit-background-size: cover;
 	-o-background-size: cover;
@@ -722,7 +724,7 @@ font-size: 6rem;
 	display:inline-block;
 }
 .main_features_content{
-	background:url(../images/ft.png) right center no-repeat;
+	background:url() right center no-repeat;
 	padding:40px;
 	overflow:hidden;
 }
@@ -892,17 +894,17 @@ font-size: 6rem;
 
 /*Amazing Deliceas Section css */
 .ourPakeg .main_pakeg_content .head_title h3{
-	color:#fff;
+	color:rgb(0, 0, 0);
 	
 }
 .ourPakeg .main_pakeg_content .head_title h4{
-	color:#fff;
+	color:rgb(0, 0, 0);
 	font-family: 'Pacifico', cursive;
 	font-size:1.875rem;
 }
 
 .ourPakeg{
-	background:url(../images/newsbg.jpg) no-repeat center top scroll;
+	background:url(../images/newsbg.png) no-repeat center top scroll;
   -moz-background-size: cover;
   -webkit-background-size: cover;
   -o-background-size: cover;
@@ -913,67 +915,79 @@ font-size: 6rem;
 }
 
 .single_pakeg_one{
-	background:url(../images/n1.png) left center no-repeat;
-	padding:30px;
-	overflow:hidden;
+    background:url(../images/n1.png) left center no-repeat;
+	padding:100px;
+	overflow: hidden;
 	margin-top:60px;
 }
 .single_pakeg_two{
-	background:url(../images/n2.png) right center no-repeat;
-	padding:30px;	
+    background:url(../images/n2.png) right center no-repeat;
+	padding:100px;	
 	overflow:hidden;
 	margin-top:60px;	
 	
 }
 .single_pakeg_three{
-	background:url(../images/n3.png) left center no-repeat;
-	padding:30px;	
+    background:url(../images/n3.png) left center no-repeat;
+	padding:100px;	
 	overflow:hidden;
 	margin-top:60px;	
 	
 }
 
 .single_pakeg_four{
-	background:url(../images/n4.png) right center no-repeat;
-	padding:30px;	
+    background:url(../images/n4.png) right center no-repeat;
+	padding:100px;	
 	overflow:hidden;
 	margin-top:60px;	
 	
 }
 
 .single_pakeg_five{
-	background:url(../images/n5.png) left center no-repeat;
-	padding:30px;	
+    background:url(../images/n5.png) left center no-repeat;
+	padding:100px;	
 	overflow:hidden;
 	margin-top:60px;	
 	
 }
 
 .single_pakeg_six{
-	background:url(../images/n6.png) right center no-repeat;
-	padding:30px;	
+    background:url(../images/n6.png) right center no-repeat;
+	padding:100px;	
 	overflow:hidden;
 	margin-top:60px;	
 	
 }
 
-.single_pakeg_text{
-	background:#fff;
-	padding:30px;
-	text-align:left;
+.single_pakeg_text1{
+	background:rgb(255, 113, 113);
+	padding:3%;
+	text-align:center;
 }
 
-.single_pakeg_text ul li{
-    background: url(../images/pkli.png) no-repeat left center;
-    padding: 15px 0px 15px 60px;
-    margin-top: 20px;
-	
+.single_pakeg_text2{
+	background:rgb(147, 255, 156);
+	padding:3%;
+	text-align:center;
 }
+
+.single_pakeg_text3{
+	background:rgb(255, 137, 108);
+	padding:3%;
+	text-align:center;
+}
+
+.single_pakeg_text4{
+	background:rgb(255, 252, 92);
+	padding:3%;
+	text-align:center;
+}
+
 
 /* Mobail Apps Section css */
 
 .mobailapps{
-	background:url(../images/appsbg.jpg) top center no-repeat scroll;
+	background:url(../images/appsbg.png) top center no-repeat scroll;
 	-moz-background-size: cover;
 	-webkit-background-size: cover;
 	-o-background-size: cover;
@@ -1023,9 +1037,10 @@ font-size: 6rem;
 	max-width:90%;
 }
 
+
 /* Footer Section CSS */
 .footer_widget{
-	background:url(../images/footerbg.jpg) center top no-repeat scroll;
+	background:url(../images/footerbg.png) center top no-repeat scroll;
 	-moz-background-size: cover;
 	-webkit-background-size: cover;
 	-o-background-size: cover;
