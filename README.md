@@ -9,7 +9,7 @@
     VIDEO LINK
   </a>
   <br>
-  <a href="https://chocolatey.org">
+  <a href="https://docs.google.com/presentation/d/1oACuDFwWLvvECeBl6OqBkDbONGBA3xDOGbMor4F9TEQ/edit?usp=sharing">
     PPT LINK
   </a>
   
