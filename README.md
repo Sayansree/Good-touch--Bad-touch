@@ -11,7 +11,7 @@
     VIDEO LINK
   </a>
   <br>
-  <a href="https://docs.google.com/presentation/d/1oACuDFwWLvvECeBl6OqBkDbONGBA3xDOGbMor4F9TEQ/edit?usp=sharing">
+  <a href=" ">
     PPT LINK
   </a>
   
