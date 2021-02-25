@@ -53,8 +53,6 @@ We even have designed a web page describing more about good touch and bad touch.
 
 You can access our website at <a href="https://sushreesatarupa.github.io/Good-touch--Bad-touch/"><img src="https://github.com/Sushreesatarupa/Good-touch--Bad-touch/blob/main/assets/images/logo.png" alt="Dont touch us" width="50"></a>
 
-There is no other requirements, since our hardware cannot be accessed virtually!
-
 ## License
 
 MIT
